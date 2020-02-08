@@ -1,2 +1,2 @@
 # Python-Projects
-My projects that I created for the Udemy python 3 course
+Some basic projects developed using python
